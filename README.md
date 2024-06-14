@@ -1,5 +1,4 @@
 # À propos de nous :
-![Bienvenue](https://i.imgur.com/GEK0y9q.gif)
 
 👋 Salut toi, nous sommes deux passionnés de programmation depuis 2018 ! N'hésite pas à nous contacter si tu as besoin d'aide 🙂
 
