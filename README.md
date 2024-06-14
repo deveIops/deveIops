@@ -25,4 +25,4 @@
 ![Git](https://skillicons.dev/icons?i=git)
 
 ## Github stats :
-![YaeTeam GitHub stats](https://github-readme-stats.vercel.app/api?username=caelushere&show_icons=true&theme=radical)
+![YaeTeam GitHub stats](https://github-readme-stats.vercel.app/api?username=yaed3v&show_icons=true&theme=radical)
