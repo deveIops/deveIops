@@ -6,7 +6,11 @@
 
 ## Contactez nous sur discord :
 ![discord](https://img.shields.io/badge/discord-roiab-%237289DA) 
-![discord](https://img.shields.io/badge/discord-mat_chen-%237289DA)
+
+## Contactez nous sur Instagram :
+![instagram](https://img.shields.io/badge/instagram-piou-%23E4405F) 
+![instagram](https://img.shields.io/badge/instagram-m4t_yu-%23E4405F)
+
 
 ## Langages de programmation et frameworks : 
 ![Python](https://skillicons.dev/icons?i=python)
