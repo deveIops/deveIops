@@ -5,7 +5,8 @@
 ![!](https://i.imgur.com/IYmgkQd.gif)
 
 ## Contactez nous sur discord :
-[![discord](https://img.shields.io/badge/discord-roiab-%237289DA)](https://discord.com/users/roiab) 
+[![discord](https://img.shields.io/badge/discord-roiab-%237289DA)](https://discord.com/users/roiab)
+[![discord](https://img.shields.io/badge/discord-roiab-%237289DA)](https://discord.com/users/lucieloveur) 
 
 ## Contactez nous sur Instagram :
 [![instagram](https://img.shields.io/badge/instagram-piou-%23E4405F)](https://www.instagram.com/piou) 
