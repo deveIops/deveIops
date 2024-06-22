@@ -9,7 +9,8 @@
 
 ## Contactez nous sur Instagram :
 ![instagram](https://img.shields.io/badge/instagram-piou-%23E4405F) 
-![instagram](https://img.shields.io/badge/instagram-m4t_yu-%23E4405F)
+![instagram](https://img.shields.io/badge/instagram-m4t__yu-%23E4405F)
+
 
 
 ## Langages de programmation et frameworks : 
