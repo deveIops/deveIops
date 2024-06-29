@@ -13,7 +13,7 @@
 [![instagram](https://img.shields.io/badge/instagram-m4t__yu-%23E4405F)](https://www.instagram.com/m4t_yu)
 
 ## BOT discord 100% gratuit : 
- [![discord](https://img.shields.io/badge/discord-yaebot-%237289DA)](discord.gg/yaebot)
+ [![discord](https://img.shields.io/badge/discord-yaebot-%237289DA)](https://discord.gg/yaebot)
 
 ## Langages de programmation et frameworks : 
 ![Python](https://skillicons.dev/icons?i=python)
