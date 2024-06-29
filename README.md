@@ -1,13 +1,15 @@
 # À propos de nous :
 
 👋 Salut toi, nous sommes deux passionnés de programmation depuis 2018 ! N'hésite pas à nous contacter si tu as besoin d'aide 🙂
-Tu peux venir prendre un bot discord personnalisé ici 100% gratuit : [![discord](https://img.shields.io/badge/discord-yaebot-%237289DA)](discord.gg/yaebot)
 
 ![!](https://i.imgur.com/FsArlWz.png)
 
 ## Contactez nous sur discord :
 [![discord](https://img.shields.io/badge/discord-roiab-%237289DA)](https://discord.com/users/roiab)
 [![discord](https://img.shields.io/badge/discord-m4t.-%237289DA)](https://discord.com/users/m4t.)
+
+## BOT discord 100% gratuit : 
+ [![discord](https://img.shields.io/badge/discord-yaebot-%237289DA)](discord.gg/yaebot)
 
 ## Contactez nous sur Instagram :
 [![instagram](https://img.shields.io/badge/instagram-piou-%23E4405F)](https://www.instagram.com/piou) 
