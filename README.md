@@ -1,6 +1,7 @@
 # À propos de nous :
 
 👋 Salut toi, nous sommes deux passionnés de programmation depuis 2018 ! N'hésite pas à nous contacter si tu as besoin d'aide 🙂
+Tu peux venir prendre un bot discord personnalisé ici 100% gratuit : [![discord](https://discord.gg/yaebot) 
 
 ![!](https://i.imgur.com/FsArlWz.png)
 
