@@ -2,7 +2,7 @@
 
 👋 Salut toi, nous sommes deux passionnés de programmation depuis 2018 ! N'hésite pas à nous contacter si tu as besoin d'aide 🙂
 
-![!](https://i.imgur.com/IYmgkQd.gif)
+![!](https://i.imgur.com/FsArlWz.png)
 
 ## Contactez nous sur discord :
 [![discord](https://img.shields.io/badge/discord-roiab-%237289DA)](https://discord.com/users/roiab)
