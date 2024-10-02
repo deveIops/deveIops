@@ -9,8 +9,8 @@
 [![discord](https://img.shields.io/badge/discord-roimat-%237289DA)](https://discord.com/users/roimat)
 
 ## Contactez nous sur Instagram :
-[![instagram](https://img.shields.io/badge/instagram-piou-%23E4405F)](https://www.instagram.com/adamqlff) 
-[![instagram](https://img.shields.io/badge/instagram-m4t__yu-%23E4405F)](https://www.instagram.com/1shnok)
+[![instagram](https://img.shields.io/badge/instagram-adamqlff-%23E4405F)](https://www.instagram.com/adamqlff) 
+[![instagram](https://img.shields.io/badge/instagram-1shnok-%23E4405F)](https://www.instagram.com/1shnok)
 
 ## Langages de programmation et frameworks : 
 ![Python](https://skillicons.dev/icons?i=python)
