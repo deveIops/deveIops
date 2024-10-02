@@ -1,4 +1,5 @@
-# À propos de nous :
+# À propos de nous : 
+ ![Profile views](https://komarev.com/ghpvc/?username=deveIops&color=blue)
 
 👋 Salut toi, nous sommes deux passionnés de programmation depuis 2018 ! N'hésite pas à nous contacter si tu as besoin d'aide 🙂
 
