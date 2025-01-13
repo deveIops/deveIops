@@ -14,7 +14,7 @@
 
 ## Contactez nous sur Instagram :
 [![instagram](https://img.shields.io/badge/instagram-adamqlff-%23E4405F)](https://www.instagram.com/adamqlff) 
-[![instagram](https://img.shields.io/badge/instagram-1shnok-%23E4405F)](https://www.instagram.com/1shnok)
+[![instagram](https://img.shields.io/badge/instagram-quelamif-%23E4405F)](https://www.instagram.com/quelamif)
 
 ## Langages de programmation et frameworks : 
 ![Python](https://skillicons.dev/icons?i=python)
