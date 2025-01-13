@@ -1,5 +1,5 @@
 # À propos de nous : 
- ![Profile views](https://komarev.com/ghpvc/?username=deveIops&color=blue)
+ ![Profile views](https://komarev.com/ghpvc/?username=streameotv&color=blue)
 
 👋 Salut toi, nous sommes deux passionnés de programmation depuis 2018 ! N'hésite pas à nous contacter si tu as besoin d'aide 🙂
 
@@ -30,4 +30,4 @@
 ![Git](https://skillicons.dev/icons?i=git)
 
 ## Github stats :
-![Adam x Mat GitHub stats](https://github-readme-stats.vercel.app/api?username=deveIops&show_icons=true&theme=radical)
+![Adam x Mat GitHub stats](https://github-readme-stats.vercel.app/api?username=streameotv&show_icons=true&theme=radical)
