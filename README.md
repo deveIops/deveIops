@@ -5,7 +5,7 @@
 ![!](https://i.imgur.com/EkYQqF6.gif)
 
 ## Notre plus gros projet, site de streaming sans pub et gratuitement !
-[![streameo](https://i.imgur.com/qsNwijv.png)(https://streameo.fun)
+[![streameo](https://i.imgur.com/qsNwijv.png)](https://streameo.fun)
 
 
 ## Contactez nous sur discord :
